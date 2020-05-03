@@ -136,7 +136,7 @@
   <ItemGroup>
     <ProjectReference Include="..\StockView\StockView.csproj">
       <Project>{01120293-A8AF-43CE-B489-8BD0302CEA11}</Project>
-      <Name>StockView</Name>
+      <Name>ExchangeView</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
