@@ -135,7 +135,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\StockView\StockView.csproj">
-      <Project>{01120293-A8AF-43CE-B489-8BD0302CEA11}</Project>
+      <Project>{12D29579-B142-4984-BE16-C612408A6349}</Project>
       <Name>ExchangeView</Name>
     </ProjectReference>
   </ItemGroup>
