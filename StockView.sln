@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeView", "StockView\ExchangeView.csproj", "{12D29579-B142-4984-BE16-C612408A6349}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockView", "StockView\StockView.csproj", "{12D29579-B142-4984-BE16-C612408A6349}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockView.iOS", "StockView.iOS\StockView.iOS.csproj", "{63B2AF9E-2172-4E99-A846-2CFB6E53A2B2}"
 EndProject

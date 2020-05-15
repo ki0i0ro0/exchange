@@ -18,14 +18,6 @@
     <PackageReference Include="System.Text.Json" Version="4.7.1" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="china.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="china.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="System.Drawing.Common">
       <HintPath>..\..\..\..\..\Library\Frameworks\Xamarin.iOS.framework\Versions\13.16.0.13\lib\mono\Xamarin.iOS\Facades\System.Drawing.Common.dll</HintPath>
     </Reference>

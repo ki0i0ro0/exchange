@@ -27,6 +27,7 @@
     <MtouchArch>x86_64</MtouchArch>
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>Apple Development: ki0i0ro0@icloud.com (99632JRL64)</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>none</DebugType>
@@ -136,7 +137,7 @@
   <ItemGroup>
     <ProjectReference Include="..\StockView\StockView.csproj">
       <Project>{12D29579-B142-4984-BE16-C612408A6349}</Project>
-      <Name>ExchangeView</Name>
+      <Name>StockView</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
